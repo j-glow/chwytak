@@ -1,0 +1,16 @@
+[StartTime]
+blok-obciazenie uszu.MFC=2s
+[SolverState]
+blok-obciazenie uszu.MFC=2
+[MainFrame]
+blok-obciazenie uszu.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+blok-obciazenie uszu.MFC=No
+[SolverType]
+blok-obciazenie uszu.MFC=Analiza liniowa
+[StudyType]
+blok-obciazenie uszu.MFC=0
+[StudyName]
+blok-obciazenie uszu.MFC=obciazenie uszu
+[Solver]
+blok-obciazenie uszu.MFC=Sparse
